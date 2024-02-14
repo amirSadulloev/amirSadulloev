@@ -9,10 +9,6 @@ I'm a Computer Science student with a passion for solving problems and exploring
 - **Database:** SQL, MongoDB
 - **Tools & Frameworks:** Git, Docker, Flask, Spring Boot
 
-## 🚀 Projects
-
----
-
 ## 🌱 Currently Learning
 
 I'm currently focusing on:
