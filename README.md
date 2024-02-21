@@ -19,9 +19,9 @@ I'm currently focusing on:
 
 ## 💬 Let's Connect
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amirbek-sadulloev-83645026a/)
-- Email: [Email](amirbeksadulloyev@gmail.com)
-- Instagram: [Instagram](https://www.instagram.com/amir_sadulloev/)
+- [LinkedIn](https://www.linkedin.com/in/amirbek-sadulloev-83645026a/)
+- [Email](amirbeksadulloyev@gmail.com)
+- [Instagram](https://www.instagram.com/amir_sadulloev/)
 
 
 <!---
